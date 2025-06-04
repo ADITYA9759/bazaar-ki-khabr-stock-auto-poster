@@ -44,3 +44,8 @@
 [Formats post: ✅ Headline ✅ Hashtags ✅ Link]
         ↓
 [Posts to Facebook Page via Graph API]
+
+
+### 📢 Live Page Example
+
+Check out live auto-posts on 👉 [Bazaar Ki Khabr Facebook Page]([https://www.facebook.com/BazaarKiKhabr](https://www.facebook.com/share/16dKUvLzdw/)
