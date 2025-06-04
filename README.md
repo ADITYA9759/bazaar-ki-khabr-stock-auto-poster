@@ -1,4 +1,5 @@
-# Google Apps Script based stock market news auto-poster to Facebook Page using Graph API. #google-apps-script #facebook-api #automation #stock-market #portfolio-project
+# Google Apps Script based stock market news auto-poster to Facebook Page using Graph API. google-apps-script facebook-api automation stock-market 
+# My portfolio-project
 # 📈 Bazaar Ki Khabr – Automated Stock Market News Poster
 
 🚀 A fully automated pipeline to fetch, format, and post Indian stock market news from trusted sources to a Facebook Page using Google Apps Script and Facebook Graph API.
