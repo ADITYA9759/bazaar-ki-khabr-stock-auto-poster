@@ -27,6 +27,20 @@
 | **Facebook Graph API** | Publish post to page |
 | **Scheduled Triggers** | Automation setup |
 
----
 
 ## 🗂️ Project Structure
+
+---
+
+## 🧠 How It Works
+
+```text
+[Google News / RSS / Custom Source]
+        ↓
+[Apps Script fetches headlines]
+        ↓
+[Writes into Google Sheet]
+        ↓
+[Formats post: ✅ Headline ✅ Hashtags ✅ Link]
+        ↓
+[Posts to Facebook Page via Graph API]
